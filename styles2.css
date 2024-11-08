@@ -1,0 +1,38 @@
+body {
+        background-color:dimgrey;
+}
+h1 {
+        background-color: darkblue;
+        font-size: 35px;
+        font-family: Verdana, Tahoma, sans-serif;
+        color: darkorange; 
+}
+.img_crpr{
+        text-align: left;
+}
+#img_crprpx{
+        width: 500px;
+        height: 500px;
+}
+h2  {
+        font-size: 30px;
+        font-family: Verdana, Tahoma, sans-serif;
+        font-weight: bold;
+}
+#p1 {
+        font-size: 15px;
+        font-family: Verdana, Tahoma, sans-serif;
+}
+h3  {
+        font-size: 30px;
+        font-family: Verdana, Tahoma, sans-serif;
+        color: whitesmoke;
+}
+.musicas {
+    font-family: Verdana, Tahoma, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+a.musicas{
+    color: coral;
+}
